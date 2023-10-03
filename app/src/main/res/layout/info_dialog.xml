@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_margin="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#1B2545"
+        android:gravity="center">
+
+        <LinearLayout
+            android:padding="24dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:background="#E0E0E0"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Ilovada 15.000ga yaqin so'zlarning tarjimasi mavjud.\n Bu Ilova Muhammadjon Saidahrorov tomonidan GITA dasturchilar akademiyasida o'qish davomida vazifa sifatida yaratildi.\nDastur hech qanday tijoriy maqsadlarsiz, xolis qilindi."
+                android:textColor="#1B2545"
+                android:textSize="22sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
